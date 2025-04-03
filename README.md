@@ -77,4 +77,4 @@ Interestelar
 
 ## 📝 Licença  
 
-Este projeto é de código aberto e está disponível sob a **Licença MIT**.
+Este projeto está licenciado sob os termos da **MIT License**. Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
